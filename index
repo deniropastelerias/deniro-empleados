@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0">
+
+  <title>DENIRO OS</title>
+
+  <meta
+    name="apple-mobile-web-app-capable"
+    content="yes">
+
+  <meta
+    name="apple-mobile-web-app-title"
+    content="DENIRO OS">
+
+  <link
+    rel="apple-touch-icon"
+    sizes="180x180"
+    href="https://deniropastelerias.github.io/deniro-assets/icon-deniro-180.png">
+
+  <link
+    rel="icon"
+    type="image/png"
+    href="https://deniropastelerias.github.io/deniro-assets/icon-deniro-180.png">
+
+  <style>
+
+    body {
+
+      margin: 0;
+      min-height: 100vh;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      font-family: Arial, sans-serif;
+
+      background: #f7f3ed;
+
+    }
+
+    .launcher {
+
+      text-align: center;
+
+      padding: 35px;
+
+    }
+
+    .launcher img {
+
+      width: 130px;
+      height: 130px;
+
+      border-radius: 28px;
+
+      margin-bottom: 20px;
+
+    }
+
+    .launcher h1 {
+
+      margin: 0 0 8px;
+
+      color: #5b2f22;
+
+      font-size: 26px;
+
+    }
+
+    .launcher p {
+
+      margin-bottom: 25px;
+
+      color: #777;
+
+    }
+
+    .launcher a {
+
+      display: inline-block;
+
+      padding: 14px 28px;
+
+      border-radius: 12px;
+
+      background: #5b2f22;
+
+      color: white;
+
+      text-decoration: none;
+
+      font-weight: bold;
+
+    }
+
+  </style>
+
+</head>
+
+
+<body>
+
+  <div class="launcher">
+
+    <img
+      src="https://deniropastelerias.github.io/deniro-assets/icon-deniro-180.png"
+      alt="DENIRO">
+
+    <h1>DENIRO OS</h1>
+
+    <p>Sistema Integral de Compras</p>
+
+    <a
+      href=https://script.google.com/macros/s/AKfycbz4MQWgMeFlV8xAHEa8Eb9ke2WkAuVuSpsvlUNFgDyIP7bIsLq9Lcbw6W738ZgLw3hmSw/exec>
+      Abrir DENIRO OS
+    </a>
+
+  </div>
+
+</body>
+
+</html>
